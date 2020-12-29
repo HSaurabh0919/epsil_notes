@@ -1,6 +1,7 @@
 Clustering Algorithms
 
 Central to all of the goals of cluster analysis is the notion of the degree of similarity (or dissimilarity) between the individual objects being clustered. 
+
 A clustering method attempts to group the objects based on the definition of similarity supplied to it.
 
 A list of 10 of the more popular algorithms is as follows:
@@ -15,3 +16,5 @@ A list of 10 of the more popular algorithms is as follows:
   OPTICS
   Spectral Clustering
   Mixture of Gaussians
+
+
