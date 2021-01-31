@@ -1,4 +1,9 @@
+DROP hello_world_db;
+
+CREATE hello_world_db;
+
 USE hello_world_db;
+
 SELECT database();
 
 create table cat(
