@@ -38,6 +38,7 @@ age INT,
 primary key(cat_id)
 );
 
+
 CREATE TABLE inventory(
 item_name VARCHAR(100),
 price DECIMAL(6,2),
